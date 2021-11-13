@@ -55,3 +55,5 @@ document.querySelectorAll(".drop").forEach((element) => {
 
   element.addEventListener("dragover", (event) => event.preventDefault());
 });
+
+// All done!
